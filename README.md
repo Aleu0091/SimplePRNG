@@ -1,0 +1,2 @@
+# SimplePRNG
+Just PRNG algorithms
